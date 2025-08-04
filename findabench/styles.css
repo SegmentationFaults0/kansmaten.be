@@ -52,11 +52,6 @@ body {
   width: auto;
 }
 
-.store-btn.google {
-  opacity: 0.5;
-  filter: grayscale(50%);
-}
-
 .contact-link {
   margin-top: 10px;
 }
